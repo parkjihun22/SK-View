@@ -1,0 +1,289 @@
+.footerContainer {
+    width: 100%;
+    background-color: #292929;
+    color: #fff;
+    font-family: sans-serif;
+  }
+  
+  /*********************************************************
+    모바일 전용 스타일 (첫 번째 스크린샷과 동일 레이아웃)
+  *********************************************************/
+  .mobileWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    gap: 15px;
+  }
+  
+  /* 로고(텍스트/이미지) */
+  .mobileLogo {
+    h2 {
+      font-size: 1.6rem;
+      margin: 0;
+    }
+    p {
+      margin: 5px 0 0;
+      font-size: 0.9rem;
+      color: #ddd4d8;
+    }
+  }
+  
+  /* 안내문구 */
+  .mobileInfoText {
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #ddd4d8;
+    p {
+      margin: 0 0 5px;
+    }
+  }
+  
+  /* 전화번호 */
+  .mobilePhone {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    span {
+      font-size: 1.3rem;
+    }
+  }
+  
+  /* 시행사 / 시공사 */
+  .mobileCompany {
+    font-size: 0.9rem;
+    color: #ddd4d8;
+    line-height: 1.4;
+    strong {
+      display: inline-block;
+      width: 60px;
+      color: #fff;
+    }
+  }
+  
+  /* 방문예약 & FAMILY SITE 버튼들 */
+  .mobileButtons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    max-width: 300px; /* 버튼 폭 제한 (원하면 조정) */
+    margin-top: 10px;
+  }
+  
+  .reserveBtn {
+    background-color: #071c2b;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+  
+    &:hover {
+      background-color: #071c2b;
+    }
+  }
+  
+  /* FAMILY SITE */
+  .familySite {
+    position: relative;
+  
+    .familyBtn {
+      display: inline-block; 
+      width: 100%;
+      background-color: transparent;
+      border: 1px solid #fff;
+      color: #fff;
+      padding: 12px;
+      border-radius: 4px;
+      font-size: 1rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+  
+      &:hover {
+        background-color: #2a2a2a;
+      }
+    }
+  
+    .familyList {
+      position: absolute;
+      bottom: 105%;
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+      background-color: #292929;
+      list-style: none;
+      padding: 10px 0;
+      border-radius: 4px;
+      width: 100%;
+      max-width: 300px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+      text-align: center;
+  
+      li {
+        padding: 5px 15px;
+        white-space: nowrap;
+      }
+      a {
+        color: #ccc;
+        text-decoration: none;
+        font-size: 0.9rem;
+        &:hover {
+          color: #ddd4d8;
+        }
+      }
+    }
+  }
+  
+  /* COPYRIGHT (모바일) */
+  .mobileCopyright {
+    font-size: 0.8rem;
+    color: #ddd4d8;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  /*********************************************************
+    데스크톱 전용 (간단 예시)
+  *********************************************************/
+  @media (min-width: 901px) {
+    .desktopWrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 60px;
+    }
+  
+    .leftSide {
+      flex: 1;
+      h2 {
+        font-size: 1.4rem;
+        margin-bottom: 10px;
+      }
+      p {
+        font-size: 0.9rem;
+        color: #ccc;
+        line-height: 1.4;
+      }
+    }
+  
+    .rightSide {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      align-items: flex-end;
+  
+      .phoneNumber {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        font-size: 1.2rem;
+        font-weight: bold;
+        span {
+          font-size: 1.3rem;
+        }
+      }
+  
+      .companyInfo {
+        font-size: 0.9rem;
+        color: #bbb;
+        strong {
+          display: inline-block;
+          width: 60px;
+          color: #fff;
+        }
+      }
+  
+      .buttonRow {
+        display: flex;
+        gap: 15px;
+        margin-top: 10px;
+      }
+  
+      .reserveBtn {
+        border: 1px solid #fff;
+        background-color: #071c2b;
+        color: #fff;
+        padding: 10px 50px;
+        border: none;
+        border-radius: 4px;
+        font-size: 0.95rem;
+        cursor: pointer;
+        transition: 0.3s;
+  
+        &:hover {
+          background-color: #071c2b;
+        }
+      }
+  
+      .familySite {
+        display: inline-block; /* 부모 폭이 자식(버튼)에 맞춰짐 */
+        position: relative;
+  
+        .familyBtn {
+          background-color: transparent;
+          border: 1px solid #fff;
+          color: #fff;
+          padding: 10px 95px;
+          border-radius: 4px;
+          font-size: 0.95rem;
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          gap: 5px;
+  
+          &:hover {
+            background-color: #2a2a2a;
+          }
+        }
+  
+        .familyList {
+          position: absolute;
+          bottom: 105%;
+          right: 0;
+          background-color: #333;
+          list-style: none;
+          margin: 0;
+          padding: 10px 0;
+          border-radius: 4px;
+          width: 100%; 
+          min-width: 300px; /* 필요하면 최소 폭 지정 */
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+        
+  
+          li {
+            padding: 5px 15px;
+            white-space: nowrap;
+          }
+          a {
+            color: #ccc;
+            text-decoration: none;
+            font-size: 0.9rem;
+            &:hover {
+              color: #fff;
+            }
+          }
+        }
+      }
+    }
+  
+    .desktopCopyright {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #888;
+      border-top: 1px solid #333;
+      padding: 10px 0;
+    }
+  }
+  

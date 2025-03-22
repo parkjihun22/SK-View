@@ -85,10 +85,10 @@
   /* 상단 메뉴 영역 */
   .itemBox {
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap; /* 추가! */
-    gap: 1.1rem;
-    align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;  /* 줄바꿈 */
+  gap: 1.1rem;
+  align-items: center;
   }
   
   /* 모바일 상담예약 링크 */

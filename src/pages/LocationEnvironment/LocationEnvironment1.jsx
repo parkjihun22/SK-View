@@ -103,21 +103,21 @@ const LocationEnvironment1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 입지안내</title>
+        <title>문화자이 SKVIEW - 입지안내</title>
         <meta
           name="description"
           content="이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요"
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원,이편한세상성성호수공원모델하우스"
+          content="문화자이 SKVIEW, 문화자이 SKVIEW 모델하우스"
         />
-        <link rel="canonical" href="https://www.3sha-re.com/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://www.tradexmeds.com/LocationEnvironment/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이편한세상 성성호수공원 - 입지안내"
+          content="문화자이 SKVIEW - 입지안내"
         />
         <meta
           property="og:description"
@@ -125,19 +125,19 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/LocationEnvironment/intro"
+          content="https://www.tradexmeds.com/LocationEnvironment/intro"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 입지안내"
+          content="문화자이 SKVIEW - 입지안내"
         />
         <meta
           name="twitter:description"
@@ -145,11 +145,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/LocationEnvironment/intro"
+          content="https://www.tradexmeds.com/LocationEnvironment/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -158,9 +158,9 @@ const LocationEnvironment1 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "이편한세상 성성호수공원 - 입지안내",
+			 "name": "문화자이 SKVIEW - 입지안내",
 			 "description": "이 단지는 최적의 입지 조건과 우수한 교통망, 풍부한 생활 인프라, 쾌적한 녹지 환경이 완벽하게 어우러져, 편리한 생활과 미래 가치 상승을 기대할 수 있습니다. 입지안내를 통해 주변 시설, 접근성 및 발전 가능성을 상세히 확인해보세요",
-			 "url": "https://www.3sha-re.com/LocationEnvironment/intro"
+			 "url": "https://www.tradexmeds.com/LocationEnvironment/intro"
 				 }
 				 `}
         </script>
@@ -174,25 +174,25 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원 - 입지안내
+        문화자이 SKVIEW - 입지안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원의 입지 안내 페이지는 이 단지의 위치와 주변 인프라에
+        문화자이 SKVIEW의 입지 안내 페이지는 이 단지의 위치와 주변 인프라에
         대한 상세 정보를 제공합니다. 교통, 교육, 상업시설 등 다양한 생활 편의
         시설을 고려하여 이 아파트가 제공하는 생활 환경을 종합적으로 살펴볼 수
         있습니다. 입지 조건을 바탕으로 더 나은 선택을 할 수 있도록 돕습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>갈수록 완벽해질 반도체클러스터</div>
-        <div>살수록 높아질 이편한세상</div>
-        <div>도시를 압도할 자부심 이편한세상 </div>
+        <div>갈수록 완벽해질 문화자이 SKVIEW</div>
+        <div>살수록 높아질 문화자이 SKVIEW</div>
+        <div>도시를 압도할 자부심 문화자이 SKVIEW </div>
       </div>
 
       <img
         src={page1}
         className={styles.image2}
-        alt="이편한세상 성성호수공원입지안내-image1"
+        alt="문화자이 SKVIEW입지안내-image1"
       />
 
       <div className={styles.section2}>

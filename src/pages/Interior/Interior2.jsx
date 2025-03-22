@@ -62,50 +62,50 @@ const Interior2 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 84A인테리어</title>
+        <title>문화자이 SKVIEW - 84A인테리어</title>
         <meta
           name="description"
-          content="84A인테리어 페이지에서는 이편한세상 성성호수공원의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 문화자이 SKVIEW의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원, 이편한세상 성성호수공원, 이편한세상 성성호수공원모델하우스"
+          content="문화자이 SKVIEW, 문화자이 SKVIEW모델하우스"
         />
-        <link rel="canonical" href="https://www.3sha-re.com/Interior/84A" />
+        <link rel="canonical" href="https://www.tradexmeds.com/Interior/84A" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="이편한세상 성성호수공원 - 84A인테리어" />
+        <meta property="og:title" content="문화자이 SKVIEW - 84A인테리어" />
         <meta
           property="og:description"
-          content="84A인테리어 페이지에서는 이편한세상 성성호수공원의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 문화자이 SKVIEW의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/Interior/84A"
+          content="https://www.tradexmeds.com/Interior/84A"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 84A인테리어"
+          content="문화자이 SKVIEW - 84A인테리어"
         />
         <meta
           name="twitter:description"
-          content="84A인테리어 페이지에서는 이편한세상 성성호수공원의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="84A인테리어 페이지에서는 문화자이 SKVIEW의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/Interior/84A"
+          content="https://www.tradexmeds.com/Interior/84A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -114,9 +114,9 @@ const Interior2 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "이편한세상 성성호수공원 - 84A인테리어",
-			 "description": "84A인테리어 페이지에서는 이편한세상 성성호수공원의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",
-			 "url": "https://www.3sha-re.com/Interior/84A"
+			 "name": "문화자이 SKVIEW - 84A인테리어",
+			 "description": "84A인테리어 페이지에서는 문화자이 SKVIEW의 고급 84A인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",
+			 "url": "https://www.tradexmeds.com/Interior/84A"
 				 }
 				 `}
         </script>
@@ -130,17 +130,17 @@ const Interior2 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원 - 84A인테리어
+        문화자이 SKVIEW - 84A인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        84A타입의 84A인테리어 페이지에서는 이편한세상 성성호수공원의 고급 84A인테리어
+        84A타입의 84A인테리어 페이지에서는 문화자이 SKVIEW의 고급 84A인테리어
         디자인을 소개합니다. 세련된 디자인과 최첨단 84A인테리어 요소들이 결합되어,
         입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 84A인테리어
         스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>이편한세상, 천안 눈부신 가치 위에</div>
+        <div>문화자이 SKVIEW, 대전의 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -150,7 +150,7 @@ const Interior2 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="이편한세상 성성호수공원84A인테리어84A-image2"
+        alt="문화자이 SKVIEW84A인테리어84A-image2"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

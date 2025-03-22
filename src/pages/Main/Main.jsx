@@ -212,7 +212,7 @@ const Main = () => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="브레인시티푸르지오 관심고객등록"
+                    alt="문화자이 SKVIEW 관심고객등록"
                   />
                 </button>
               </div>
@@ -462,7 +462,7 @@ const Main = () => {
                 <span className={styles.greyText}>착한조건</span>
               </div>
               <div className={styles.mainImageTitleBox1}>
-                <div className={styles.mainImageText1}>천안이 기다린<br /> 가장 착한 아파트</div>
+                <div className={styles.mainImageText1}>대전이 기다린<br /> 가장 착한 아파트</div>
                 <div className={styles.mainImageText5}>문화자이 SKVIEW</div>
               </div>
             </div>
@@ -489,8 +489,8 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                천안 브레인시티의 중심으로 사는<br />
-                <span>착한 가격의 분상제 아파트</span>
+                대전 의 중심으로 사는<br />
+                <span>착한 가격의 아파트</span>
               </div>
               <div className={styles.subTitle}>
                 <div className={styles.textLine}></div>

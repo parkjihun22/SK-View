@@ -58,24 +58,24 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 호수배치도</title>
+        <title>문화자이 SKVIEW - 호수배치도</title>
         <meta
           name="description"
           content="호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다."
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원, 성성동 이편한세상"
+          content="문화자이 SKVIEW, 성성동 이편한세상"
         />
         <link
           rel="canonical"
-          href="https://www.3sha-re.com/ComplexGuide/detailintro"
+          href="https://www.tradexmeds.com/ComplexGuide/detailintro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이편한세상 성성호수공원 - 호수배치도"
+          content="문화자이 SKVIEW - 호수배치도"
         />
         <meta
           property="og:description"
@@ -83,19 +83,19 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/ComplexGuide/detailintro"
+          content="https://www.tradexmeds.com/ComplexGuide/detailintro"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 호수배치도"
+          content="문화자이 SKVIEW - 호수배치도"
         />
         <meta
           name="twitter:description"
@@ -103,11 +103,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/ComplexGuide/detailintro"
+          content="https://www.tradexmeds.com/ComplexGuide/detailintro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -116,9 +116,9 @@ const ComplexGuide1 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "이편한세상 성성호수공원 - 호수배치도",
+			"name": "문화자이 SKVIEW - 호수배치도",
 			"description": "호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다.",
-			"url": "https://www.3sha-re.com/ComplexGuide/detailintro"
+			"url": "https://www.tradexmeds.com/ComplexGuide/detailintro"
 					}
 					`}
         </script>
@@ -130,7 +130,7 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-      이편한세상 성성호수공원 - 호수배치도
+      문화자이 SKVIEW - 호수배치도
       </h1>
       <p className={styles.screenReaderOnly}>
         호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이
@@ -139,7 +139,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>이편한세상 성성호수공원이 눈부신 가치 위에</div>
+        <div>문화자이 SKVIEW가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -149,7 +149,7 @@ const ComplexGuide1 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="이편한세상 성성호수공원 호수배치도-image1"
+        alt="문화자이 SKVIEW 호수배치도-image1"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

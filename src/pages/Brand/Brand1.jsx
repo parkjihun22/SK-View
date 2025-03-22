@@ -61,56 +61,56 @@ const Brand1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 브랜드 소개</title>
+        <title>문화자이 SKVIEW - 브랜드 소개</title>
         <meta
           name="description"
-          content="이편한세상 성성호수공원의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+          content="문화자이 SKVIEW의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 "
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원,이편한세상 성성호수공원모델하우스"
+          content="문화자이 SKVIEW, 문화자이 SKVIEW 모델하우스"
         />
-        <link rel="canonical" href="https://www.3sha-re.com/Brand/intro" />
+        <link rel="canonical" href="https://www.tradexmeds.com/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이편한세상 성성호수공원 - 브랜드 소개"
+          content="문화자이 SKVIEW - 브랜드 소개"
         />
         <meta
           property="og:description"
-          content="이편한세상 성성호수공원의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+          content="문화자이 SKVIEW의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 "
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/Brand/intro"
+          content="https://www.tradexmeds.com/Brand/intro"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 브랜드 소개"
+          content="문화자이 SKVIEW - 브랜드 소개"
         />
         <meta
           name="twitter:description"
-          content="이편한세상 성성호수공원의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+          content="문화자이 SKVIEW의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 "
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/Brand/intro"
+          content="https://www.tradexmeds.com/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -119,10 +119,10 @@ const Brand1 = () => {
                                         {
                                             "@context": "https://schema.org",
                                             "@type": "WebPage",
-                                            "name": "이편한세상 성성호수공원 - 브랜드 소개",
-                                            "description": "이편한세상 성성호수공원의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
+                                            "name": "문화자이 SKVIEW - 브랜드 소개",
+                                            "description": "문화자이 SKVIEW의 브랜드 철학과 가치를 소개합니다. e편한세상의 대표 브랜드 힐스테이트는 고급스러움과 실용성을 결합한 주거공간을 제공합니다. 고객의 삶을 중심에 둔 설계와 혁신적인 기술, 지속 가능한 개발 철학을 통해 미래를 선도하는 주거 문화를 만들어갑니다. 힐스테이트의 브랜드 스토리와 비전을 확인해보세요.
 ",
-                                            "url": "https://www.3sha-re.com/Brand/intro"
+                                            "url": "https://www.tradexmeds.com/Brand/intro"
                                         }
                                         `}
         </script>
@@ -131,18 +131,18 @@ const Brand1 = () => {
       <Header isChanged={isScroll} />
       <FixIcon />
 
-      <Bener title="e편한세상" />
+      <Bener title="문화자이 SKVIEW" />
 
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원 - 브랜드소개
+        문화자이 SKVIEW - 브랜드소개
       </h1>
       <p className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원의 신뢰와 품질을 최우선으로 여기는 브랜드입니다.
+        문화자이 SKVIEW의 신뢰와 품질을 최우선으로 여기는 브랜드입니다.
         최첨단 설계와 고급 자재를 사용하여 입주자에게 최고의 주거 환경을
         제공합니다. 지속적인 혁신과 고객 만족을 위한 브랜드 철학을 바탕으로,
-        미래 지향적인 주택을 제시하는 이편한세상 성성호수공원의 브랜드 가치를
+        미래 지향적인 주택을 제시하는 문화자이 SKVIEW의 브랜드 가치를
         경험해보세요
       </p>
 
@@ -150,13 +150,13 @@ const Brand1 = () => {
         className={`${styles.textBox} ${isTextVisible ? styles.active : ""}`}
       >
         <div>생활의 모든 것을 한걸음에</div>
-        <div>e편한세상, 천안의 중심에 서다</div>
+        <div>문화자이 SKVIEW, 대전의 중심에 서다</div>
       </div>
 
       <img
         className={`${styles.image} ${isImageVisible ? styles.visible : ""}`}
         src={page1}
-        alt="이편한세상 성성호수공원brand-Image1"
+        alt="문화자이 SKVIEWbrand-Image1"
       />
 
       <Footer />

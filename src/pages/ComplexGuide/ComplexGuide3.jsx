@@ -58,56 +58,56 @@ const ComplexGuide3 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 커뮤니티</title>
+        <title>문화자이 SKVIEW - 커뮤니티</title>
         <meta
           name="description"
-          content="이편한세상 성성호수공원의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
+          content="문화자이 SKVIEW의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원, 성성동이편한세상"
+          content="문화자이 SKVIEW, 문화자이 SKVIEW 모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.3sha-re.com/ComplexGuide/community"
+          href="https://www.tradexmeds.com/ComplexGuide/community"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이편한세상 성성호수공원 - 커뮤니티"
+          content="문화자이 SKVIEW - 커뮤니티"
         />
         <meta
           property="og:description"
-          content="이편한세상 성성호수공원의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
+          content="문화자이 SKVIEW의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/ComplexGuide/community"
+          content="https://www.tradexmeds.com/ComplexGuide/community"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 커뮤니티"
+          content="문화자이 SKVIEW - 커뮤니티"
         />
         <meta
           name="twitter:description"
-          content="이편한세상 성성호수공원의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
+          content="문화자이 SKVIEW의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다."
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/ComplexGuide/community"
+          content="https://www.tradexmeds.com/ComplexGuide/community"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -116,9 +116,9 @@ const ComplexGuide3 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "이편한세상 성성호수공원 - 커뮤니티",
-			"description": "이편한세상 성성호수공원의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.",
-			"url": "https://www.3sha-re.com/ComplexGuide/community"
+			"name": "문화자이 SKVIEW - 커뮤니티",
+			"description": "문화자이 SKVIEW의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티 시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한 다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을 높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.",
+			"url": "https://www.tradexmeds.com/ComplexGuide/community"
 					}
 					`}
         </script>
@@ -130,17 +130,17 @@ const ComplexGuide3 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원 - 커뮤니티
+        문화자이 SKVIEW - 커뮤니티
       </h1>
       <p className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티
+        문화자이 SKVIEW의 커뮤니티 페이지에서는 단지 내 다양한 커뮤니티
         시설을 소개합니다. 헬스장, 독서실, 카페 등 주민들의 편리한 생활을 위한
         다양한 시설들이 준비되어 있습니다. 이러한 시설들이 입주민들의 삶의 질을
         높이고, 더 나은 공동체 생활을 만들어주는 역할을 합니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>이편한세상 성성호수공원이 눈부신 가치 위에</div>
+        <div>문화자이 SKVIEW가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -150,7 +150,7 @@ const ComplexGuide3 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="이편한세상 성성호수공원 커뮤니티안내-image1"
+        alt="문화자이 SKVIEW 커뮤니티안내-image1"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

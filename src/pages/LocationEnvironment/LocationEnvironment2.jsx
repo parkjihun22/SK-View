@@ -54,56 +54,56 @@ const LocationEnvironment1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 프리미엄</title>
+        <title>문화자이 SKVIEW - 프리미엄</title>
         <meta
           name="description"
-          content="이편한세상 성성호수공원의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요."
+          content="문화자이 SKVIEW의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요."
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원, 이편한세상 성성호수공원 모델하우스"
+          content="문화자이 SKVIEW, 문화자이 SKVIEW 모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.3sha-re.com/LocationEnvironment/primium"
+          href="https://www.tradexmeds.com/LocationEnvironment/primium"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="이편한세상 성성호수공원 - 프리미엄"
+          content="문화자이 SKVIEW - 프리미엄"
         />
         <meta
           property="og:description"
-          content="이편한세상 성성호수공원의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요."
+          content="문화자이 SKVIEW의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요."
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/LocationEnvironment/primium"
+          content="https://www.tradexmeds.com/LocationEnvironment/primium"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 프리미엄"
+          content="문화자이 SKVIEW - 프리미엄"
         />
         <meta
           name="twitter:description"
-          content="이편한세상 성성호수공원의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요."
+          content="문화자이 SKVIEW의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요."
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/LocationEnvironment/primium"
+          content="https://www.tradexmeds.com/LocationEnvironment/primium"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -112,9 +112,9 @@ const LocationEnvironment1 = () => {
 				 {
 			 "@context": "https://schema.org",
 			 "@type": "WebPage",
-			 "name": "이편한세상 성성호수공원 - 프리미엄",
-			 "description": "이편한세상 성성호수공원의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요.",
-			 "url": "https://www.3sha-re.com/LocationEnvironment/primium"
+			 "name": "문화자이 SKVIEW - 프리미엄",
+			 "description": "문화자이 SKVIEW의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요.",
+			 "url": "https://www.tradexmeds.com/LocationEnvironment/primium"
 				 }
 				 `}
         </script>
@@ -128,24 +128,24 @@ const LocationEnvironment1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원 - 프리미엄
+        문화자이 SKVIEW - 프리미엄
       </h1>
       <p className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한
+        문화자이 SKVIEW의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한
         고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용
         서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고
         이 아파트에서 제공하는 차별화된 가치를 경험하세요.
       </p>
 
       <div className={styles.textBox}>
-        <div>반도체클러스터의 눈부신 가치 위에</div>
-        <div>이편한세상 성성호수공원의 새로운 자부심으로 찾아옵니다.</div>
+        <div>대전의 눈부신 가치 위에</div>
+        <div>문화자이 SKVIEW의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       <img
         src={page1}
         className={styles.image3}
-        alt="이편한세상 성성호수공원프리미엄안내-image1"
+        alt="문화자이 SKVIEW프리미엄안내-image1"
       />
 
       <Footer />

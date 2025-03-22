@@ -68,15 +68,15 @@ const FloorPlan7 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-				<div>천안 쌍용역의 눈부신 가치 위에</div>
-				<div>이편한세상의 새로운 자부심으로 찾아옵니다.</div>
+				<div>대전 의 눈부신 가치 위에</div>
+				<div>문화자이 SKVIEW의 새로운 자부심으로 찾아옵니다.</div>
 			</div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="이편한세상 성성호수공원 125타입 이미지"
+				alt="문화자이 SKVIEW 125타입 이미지"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/>
 

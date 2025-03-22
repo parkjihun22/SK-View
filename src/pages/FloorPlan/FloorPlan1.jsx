@@ -74,53 +74,53 @@ const FloorPlan1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>이편한세상 성성호수공원 - 59타입 평면도</title>
+        <title>문화자이 SKVIEW - 59타입 평면도</title>
         <meta
           name="description"
-          content="59타입의평면 안내 페이지는 이편한세상 성성호수공원의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요."
+          content="59타입의평면 안내 페이지는 문화자이 SKVIEW의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요."
         />
         <meta
           name="keywords"
-          content="이편한세상 성성호수공원, 성성동 이편한세상"
+          content="문화자이 SKVIEW, 문화자이 SKVIEW 모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.3sha-re.com/FloorPlan/59A"
+          href="https://www.tradexmeds.com/FloorPlan/59A"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
-        <meta property="og:title" content="이편한세상 성성호수공원 - 59타입 평면도" />
+        <meta property="og:title" content="문화자이 SKVIEW - 59타입 평면도" />
         <meta
           property="og:description"
-          content="59타입의평면 안내 페이지는 이편한세상 성성호수공원의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요."
+          content="59타입의평면 안내 페이지는 문화자이 SKVIEW의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요."
         />
         <meta
           property="og:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.3sha-re.com/FloorPlan/59A"
+          content="https://www.tradexmeds.com/FloorPlan/59A"
         />
-        <meta property="og:site_name" content="이편한세상 성성호수공원" />
+        <meta property="og:site_name" content="문화자이 SKVIEW" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="이편한세상 성성호수공원 - 59타입평면도"
+          content="문화자이 SKVIEW - 59타입평면도"
         />
         <meta
           name="twitter:description"
-          content="59타입의평면 안내 페이지는 이편한세상 성성호수공원의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요."
+          content="59타입의평면 안내 페이지는 문화자이 SKVIEW의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요."
         />
         <meta
           name="twitter:image"
-          content="https://www.3sha-re.com/Main1.png"
+          content="https://www.tradexmeds.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.3sha-re.com/FloorPlan/59A"
+          content="https://www.tradexmeds.com/FloorPlan/59A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -129,9 +129,9 @@ const FloorPlan1 = () => {
 					{
 			"@context": "https://schema.org",
 			"@type": "WebPage",
-			"name": "이편한세상 성성호수공원 - 단지배치도",
-			"description": "59타입의평면 안내 페이지는 이편한세상 성성호수공원의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.",
-			"url": "https://www.3sha-re.com/FloorPlan/59A"
+			"name": "문화자이 SKVIEW - 단지배치도",
+			"description": "59타입의평면 안내 페이지는 문화자이 SKVIEW의 각 아파트 평면도를 제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활 스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를 확인하고 자신에게 맞는 최적의 공간을 찾아보세요.",
+			"url": "https://www.tradexmeds.com/FloorPlan/59A"
 					}
 					`}
         </script>
@@ -145,18 +145,18 @@ const FloorPlan1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        이편한세상 성성호수공원 - 평면안내
+        문화자이 SKVIEW - 평면안내
       </h1>
       <p className={styles.screenReaderOnly}>
-        59타입의평면 안내 페이지는 이편한세상 성성호수공원의 각 아파트 평면도를
+        59타입의평면 안내 페이지는 문화자이 SKVIEW의 각 아파트 평면도를
         제공합니다. 고객들이 아파트의 구조를 정확히 이해하고, 자신의 생활
         스타일에 맞는 평형을 선택할 수 있도록 돕습니다. 다양한 평면 설계를
         확인하고 자신에게 맞는 최적의 공간을 찾아보세요.
       </p>
 
       <div className={styles.textBox}>
-        <div>천안역 쌍용역의 눈부신 가치 위에</div>
-        <div>이편한세상의 새로운 자부심으로 찾아옵니다.</div>
+        <div>대전의 눈부신 가치 위에</div>
+        <div>이문화자이 SKVIEW의 새로운 자부심으로 찾아옵니다.</div>
       </div>
 
       {/* 이미지에 애니메이션 효과 추가 */}
@@ -165,7 +165,7 @@ const FloorPlan1 = () => {
           isImage2Loaded ? styles.showImage2 : ""
         }`}
         src={page1}
-        alt="이편한세상 성성호수공원 59타입의평면안내-image1"
+        alt="문화자이 SKVIEW 59타입의평면안내-image1"
         onLoad={handleImageLoad} // 이미지 로드 후 애니메이션 실행
       />
 

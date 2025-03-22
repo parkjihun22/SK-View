@@ -60,16 +60,20 @@
   .headerInitial {
     font-family: 'MinSans-Regular';
     width: 100%;
-    height: 4vw; /* 헤더 높이 */
+    /* height: 4vw;  // 고정 높이 제거 */
+    min-height: 4vw;   // 최소 높이로 대체
     z-index: 100;
     background: linear-gradient(135deg, rgba(4, 14, 22, 0.785) 50%, rgba(0, 10, 17, 0.878) 70%);
     display: flex;
+    /* 새로 추가: flex-wrap */
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 5rem;
+    gap: 5rem;   // gap이 너무 크면 항목들이 빨리 줄바꿈될 수 있으니 상황 봐서 조절
     padding: 0 2rem;
     position: relative;
   }
+  
   
   /* 로고: 기존 크기 유지 */
   .logo {

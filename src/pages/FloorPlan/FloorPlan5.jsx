@@ -14,16 +14,16 @@ import page1 from "../../assets/FloorPlan/FloorPlan5/page1.jpg"
 
 const FloorPlan5 = () => {
 	const menuContents = [
-		{ title: "52㎡", url: "/FloorPlan/59A" },
-		{ title: "59㎡A", url: "/FloorPlan/59B" },
-		{ title: "59㎡B", url: "/FloorPlan/84A" },
-		{ title: "75㎡A", url: "/FloorPlan/84B" },
-		{ title: "75㎡B", url: "/FloorPlan/114A" },
-		{ title: "84㎡A1", url: "/FloorPlan/114B" },
-		{ title: "84㎡A2", url: "/FloorPlan/114C" },
-		{ title: "84㎡B", url: "/FloorPlan/114D" },
-		{ title: "84㎡C", url: "/FloorPlan/114E" },
-		{ title: "84㎡D", url: "/FloorPlan/114F" },
+		{ title: "52=", url: "/FloorPlan/59A" },
+    { title: "59A", url: "/FloorPlan/59B" },
+    { title: "59B", url: "/FloorPlan/84A" },
+    { title: "75A", url: "/FloorPlan/84B" },
+    { title: "75B", url: "/FloorPlan/114A" },
+    { title: "84A1", url: "/FloorPlan/114B" },
+    { title: "84A2", url: "/FloorPlan/114C" },
+	{ title: "84B", url: "/FloorPlan/114D" },
+	{ title: "84C", url: "/FloorPlan/114E" },
+	{ title: "84D", url: "/FloorPlan/114F" },
     { title: "세대안내영상", url: "/FloorPlan/videos" }, // 세대안내영상 링크
 	
 	];

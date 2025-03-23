@@ -454,11 +454,11 @@ const Main = () => {
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-                분양가 상한제 적용<br />
+                입주지원금 최대 1700만원<br />
                 <span className={styles.greyText}>착한분양가</span><br />
                 부담을 덜어주는<br />
                 <span className={styles.greyText}>착한 옵션</span><br />
-                계약금 5%로 내집마련기회<br />
+                입주까지 300만원으로 내집마련<br />
                 <span className={styles.greyText}>착한조건</span>
               </div>
               <div className={styles.mainImageTitleBox1}>

@@ -96,7 +96,7 @@ const UnitplanBox = () => {
       <div className={styles.imgContainer}>
         <AiOutlineLeft
           className={styles.arrowIcon}
-          size={!isMobile ? 60 : 40} // 데스크톱/모바일 크기
+          size={!isMobile ? 60 : 20} // 데스크톱/모바일 크기
           color={isLeft ? "#d1af73" : "#eedec3"}
           onClick={isLeft ? leftArray : undefined}
         />
@@ -107,7 +107,7 @@ const UnitplanBox = () => {
         />
         <AiOutlineRight
           className={styles.arrowIcon}
-          size={!isMobile ? 60 : 40}
+          size={!isMobile ? 60 : 20}
           color={isRight ? "#d1af73" : "#eedec3"}
           onClick={isRight ? rightArray : undefined}
         />

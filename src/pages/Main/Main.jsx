@@ -418,7 +418,7 @@ const Main = () => {
       ) : (
         // 모바일 버전
         <div className={styles.mobileMain}>
-          {isOpenPopup1 && (
+          {/* {isOpenPopup1 && (
             <MobilePopup
               onClosed={() => setIsOpenPopup1(!isOpenPopup1)}
               popupImage={mobilePopupPage1}
@@ -445,7 +445,7 @@ const Main = () => {
               popupImage={mobilePopupPage3}
               numbering={4}
             />
-          )}
+          )} */}
 
           <Header isChanged={isScroll} />
 

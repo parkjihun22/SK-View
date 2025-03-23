@@ -16,7 +16,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
         return date;
     };
 
-    /*
+    
     // 원래 쿠키와 팝업 상태를 자동으로 제어하던 코드 → 잠시 주석 처리
     useEffect(() => {
         if (type === 1) {
@@ -29,7 +29,7 @@ const MobilePopup = ({ onClosed, popupImage, numbering }) => {
             onClosed(false);
         }
     }, [type, cookies]);
-    */
+    
 
     return (
         <div className={styles.backgroundContainer}>

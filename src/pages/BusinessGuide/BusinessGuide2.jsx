@@ -70,7 +70,7 @@ const BusinessGuide2 = () => {
           name="keywords"
           content="문화자이 SKVIEW, 문화자이 SKVIEW 모델하우스"
         />
-        <link rel="canonical" href="https://www.tradexmeds.com/BusinessGuide/plan" />
+        <link rel="canonical" href="https://www.ssanghwa.co.kr/BusinessGuide/plan" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="문화자이 SKVIEW - 분양일정" />
@@ -80,11 +80,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.tradexmeds.com/Main1.png"
+          content="https://www.ssanghwa.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.tradexmeds.com/BusinessGuide/plan"
+          content="https://www.ssanghwa.co.kr/BusinessGuide/plan"
         />
         <meta property="og:site_name" content="문화자이 SKVIEW" />
 
@@ -100,11 +100,11 @@ const BusinessGuide2 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.tradexmeds.com/Main1.png"
+          content="https://www.ssanghwa.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.tradexmeds.com/BusinessGuide/plan"
+          content="https://www.ssanghwa.co.kr/BusinessGuide/plan"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -115,7 +115,7 @@ const BusinessGuide2 = () => {
 			"@type": "WebPage",
 			"name": "문화자이 SKVIEW - 분양일정",
 			"description": "문화자이 SKVIEW의 분양 일정은 중요한 날짜들을 안내하는 핵심 정보입니다. 입주 희망자들에게 분양 일정과 함께 주요 일정 변경 사항을 실시간으로 제공합니다. 정확한 분양 일정을 확인하고, 청약 준비를 미리 진행할 수 있도록 도와줍니다. 분양 공고를 통해 추가 정보와 분양 조건을 확인해보세요.",
-			"url": "https://www.tradexmeds.com/BusinessGuide/plan"
+			"url": "https://www.ssanghwa.co.kr/BusinessGuide/plan"
 					}
 					`}
         </script>

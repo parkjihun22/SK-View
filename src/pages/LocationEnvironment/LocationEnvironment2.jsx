@@ -65,7 +65,7 @@ const LocationEnvironment1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.tradexmeds.com/LocationEnvironment/primium"
+          href="https://www.ssanghwa.co.kr/LocationEnvironment/primium"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -79,11 +79,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.tradexmeds.com/Main1.png"
+          content="https://www.ssanghwa.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.tradexmeds.com/LocationEnvironment/primium"
+          content="https://www.ssanghwa.co.kr/LocationEnvironment/primium"
         />
         <meta property="og:site_name" content="문화자이 SKVIEW" />
 
@@ -99,11 +99,11 @@ const LocationEnvironment1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.tradexmeds.com/Main1.png"
+          content="https://www.ssanghwa.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.tradexmeds.com/LocationEnvironment/primium"
+          content="https://www.ssanghwa.co.kr/LocationEnvironment/primium"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -114,7 +114,7 @@ const LocationEnvironment1 = () => {
 			 "@type": "WebPage",
 			 "name": "문화자이 SKVIEW - 프리미엄",
 			 "description": "문화자이 SKVIEW의 프리미엄 페이지에서는 이 아파트가 제공하는 다양한 고급 특화 시설과 혜택을 소개합니다. 특화 설계, 고급 자재, 입주자 전용 서비스를 통해 더 나은 생활을 제공합니다. 프리미엄 세부 사항을 확인하고 이 아파트에서 제공하는 차별화된 가치를 경험하세요.",
-			 "url": "https://www.tradexmeds.com/LocationEnvironment/primium"
+			 "url": "https://www.ssanghwa.co.kr/LocationEnvironment/primium"
 				 }
 				 `}
         </script>

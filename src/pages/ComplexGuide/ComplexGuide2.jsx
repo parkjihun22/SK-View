@@ -69,7 +69,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.tradexmeds.com/ComplexGuide/detailintro"
+          href="https://www.ssanghwa.co.kr/ComplexGuide/detailintro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -83,11 +83,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.tradexmeds.com/Main1.png"
+          content="https://www.ssanghwa.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.tradexmeds.com/ComplexGuide/detailintro"
+          content="https://www.ssanghwa.co.kr/ComplexGuide/detailintro"
         />
         <meta property="og:site_name" content="문화자이 SKVIEW" />
 
@@ -103,11 +103,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.tradexmeds.com/Main1.png"
+          content="https://www.ssanghwa.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.tradexmeds.com/ComplexGuide/detailintro"
+          content="https://www.ssanghwa.co.kr/ComplexGuide/detailintro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -118,7 +118,7 @@ const ComplexGuide1 = () => {
 			"@type": "WebPage",
 			"name": "문화자이 SKVIEW - 호수배치도",
 			"description": "호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이 원하는 호수를 찾고 세부적인 배치 정보를 통해 자신의 집을 상상할 수 있게 돕습니다. 각 호수의 특징과 장점을 살펴보며 선택의 폭을 넓힐 수 있습니다.",
-			"url": "https://www.tradexmeds.com/ComplexGuide/detailintro"
+			"url": "https://www.ssanghwa.co.kr/ComplexGuide/detailintro"
 					}
 					`}
         </script>

@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "대전 문화자이 SK뷰", url: "https://www.tradexmeds.com/" },
+  { name: "대전 문화자이 SK뷰", url: "https://www.ssanghwa.co.kr/" },
 
 ];
 

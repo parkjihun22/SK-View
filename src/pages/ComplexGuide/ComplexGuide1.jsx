@@ -69,7 +69,7 @@ const ComplexGuide1 = () => {
         />
         <link
           rel="canonical"
-          href="https://www.ssanghwa.co.kr/ComplexGuide/intro"
+          href="https://www.spod.co.kr/ComplexGuide/intro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
@@ -83,11 +83,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.ssanghwa.co.kr/Main1.png"
+          content="https://www.spod.co.kr/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.ssanghwa.co.kr/ComplexGuide/intro"
+          content="https://www.spod.co.kr/ComplexGuide/intro"
         />
         <meta property="og:site_name" content="문화자이 SKVIEW" />
 
@@ -103,11 +103,11 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.ssanghwa.co.kr/Main1.png"
+          content="https://www.spod.co.kr/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.ssanghwa.co.kr/ComplexGuide/intro"
+          content="https://www.spod.co.kr/ComplexGuide/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -118,7 +118,7 @@ const ComplexGuide1 = () => {
 			"@type": "WebPage",
 			"name": "문화자이 SKVIEW - 단지배치도",
 			"description": "단지 배치도 페이지는 문화자이 SKVIEW의 전체 단지 구성도를 제공합니다. 아파트 단지 내 세대 배치, 공용 시설, 주차 공간 등을 시각적으로 보여주어 입주자들이 공간 배치에 대해 명확하게 이해할 수 있도록 돕습니다. 이 배치도를 통해 단지 내 생활을 더 쉽게 계획할 수 있습니다.",
-			"url": "https://www.ssanghwa.co.kr/ComplexGuide/intro"
+			"url": "https://www.spod.co.kr/ComplexGuide/intro"
 					}
 					`}
         </script>
